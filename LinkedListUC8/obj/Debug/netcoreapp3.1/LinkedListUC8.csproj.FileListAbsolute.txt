@@ -1,0 +1,14 @@
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.exe
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.deps.json
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.dll
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\bin\Debug\netcoreapp3.1\LinkedListUC8.pdb
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.csproj.AssemblyReference.cache
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.dll
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.pdb
+C:\Users\Raj Nani\source\repos\LinkedListUC8\LinkedListUC8\obj\Debug\netcoreapp3.1\LinkedListUC8.genruntimeconfig.cache
