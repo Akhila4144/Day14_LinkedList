@@ -1,0 +1,13 @@
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.exe
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.deps.json
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.runtimeconfig.json
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.runtimeconfig.dev.json
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.dll
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\bin\Debug\netcoreapp3.1\LinkedListUC2.pdb
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.AssemblyInfoInputs.cache
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.AssemblyInfo.cs
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.csproj.CoreCompileInputs.cache
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.dll
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.pdb
+C:\Users\Raj Nani\source\repos\LinkedListUC2\LinkedListUC2\obj\Debug\netcoreapp3.1\LinkedListUC2.genruntimeconfig.cache
